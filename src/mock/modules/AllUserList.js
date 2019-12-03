@@ -1,0 +1,116 @@
+const userlist = [
+  {
+    ibmuniqueid: 17, // ibmuniqueid can not be change during mock!!!!
+    userid: '张一',
+    email: 'aaa@cn.ibm.com',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 16,
+    status: '1',
+    csoid: '24',
+    firstname: '胡',
+    lastname: '1',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '18',
+    userid: '张二',
+    email: '@11w3377',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 17,
+    status: '0',
+    csoid: '25',
+    firstname: '胡',
+    lastname: '2',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '22',
+    userid: '张三',
+    email: '@11w3366',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 18,
+    status: '1',
+    csoid: '26',
+    firstname: '胡',
+    lastname: '3',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '28',
+    userid: '张四',
+    email: '@11w3388',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 20,
+    status: '1',
+    csoid: '30',
+    firstname: '胡',
+    lastname: '4',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '20',
+    userid: '张五',
+    email: '@11w3322',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 21,
+    status: '1',
+    csoid: '24',
+    firstname: '胡',
+    lastname: '5',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '21',
+    userid: '张六',
+    email: '@11w3322',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 22,
+    status: '0',
+    csoid: '25',
+    firstname: '胡',
+    lastname: '6',
+    entitlementrequestid: '1'
+  },
+  {
+    ibmuniqueid: '16',
+    userid: '张七',
+    email: '@11w3322',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 28,
+    status: '1',
+    csoid: '26',
+    firstname: '胡',
+    lastname: '7',
+    entitlementrequestid: ''
+  },
+  {
+    ibmuniqueid: '29',
+    userid: '张八',
+    email: '@11w3322',
+    company: 'IBM',
+    country: 'China',
+    phone: '123456789',
+    roleid: 29,
+    status: '0',
+    csoid: '30',
+    firstname: '胡',
+    lastname: '8',
+    entitlementrequestid: '234'
+  }
+]
+
+export { userlist }

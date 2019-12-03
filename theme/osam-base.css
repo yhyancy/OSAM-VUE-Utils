@@ -1,0 +1,17 @@
+  .osam-page-ibm-font {
+    font-family: ibm-plex-sans,"Helvetica Neue",Arial,sans-serif;
+  }
+  .osam-page-big-title {
+    text-align: left;
+  }
+  .osam-page-subtitle {
+    padding-left:0;
+    padding-bottom: 1%;
+  }
+  .osam-page-el-card {
+    padding-left : 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom:1%;
+    margin: 10px 0 0 0;
+  }
